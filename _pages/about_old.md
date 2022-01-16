@@ -4,8 +4,8 @@ title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /about2/
+  - /about2.html
 ---
 
 I am a electrical engineer and space scientist at NASA Goddard Space Flight Center where I am a post-doctoral researcher at the Space Weather Laboratory working under Dr. David Sibeck. 

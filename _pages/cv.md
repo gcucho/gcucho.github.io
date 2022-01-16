@@ -31,9 +31,22 @@ Research experience
  
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Teaching Assistant
+  * d
+  
+Awards
+======
+* Vela Fellowship from Los Alamos National (2021)
+* Shun Lien Chuang Memorial Award for Excellence in Graduate Education from UIUC (2021)
+* Young Scientist in the International Team on Earth's Exosphere and its Response to Space Weather led by Hyunju Connor at the International Space Science Institute (ISSI) (2021)
+* Yuen Tze Lo Outstanding Graduate Research Award from UIUC (2020)
+* Awarded 1st Place in the Student Poster Competition at the NSF-CEDAR conference (2018)
+* William J. Fulbright Foreign Scholarship Award for graduate studies (2014)
+* Pontifical Catholic University of Peru Scholarship (fully funded scholarship for 5 years) (2001)
+
+Talks
+=====
+
   
 Service and leadership
 ======

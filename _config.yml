@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ph.D."
+title                    : "Gonzalo Cucho-Padin"
 title_separator          : "-"
 name                     : &name "Gonzalo Cucho-Padin"
-description              : &description "personal description"
+description              : &description "Postdoctoral research scientist at NASA GSFC"
 url                      : https://gcucho.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gcucho/gcucho.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Gonzalo Cucho-Padin"
   avatar           : "profile.png"
-  bio              : "Space scientist"
-  location         : "Location"
+  bio              : "Postdoctoral researcher at NASA GSFC"
+  location         : "Greenbelt, MD"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VU_SqNMAAAAJ"

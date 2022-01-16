@@ -32,6 +32,6 @@ author_profile: true
 ### Robotics
 * Bo, A., Casas, L., **Cucho-Padin, G.**, Hayashibe, M., Elias, D. (2021). "Control Strategies for Gait Tele-Rehabilitation System Based on Parallel Robotics". MDPI-Applied Sciences, 11, 23. [doi.org/10.3390/app112311095](https://doi.org/10.3390/app112311095)
 
-* Reategui, J., **Cucho, G.**, Rodriguez, P., Callupe, R. and Madrid, E. (2013). "Handgrip Force Estimation Based on Total Variation Denoising Filtering for Control Applications". 13th IEEE International Conference on BioInformatics and BioEngineering, Chania, Greece, pp. 1-5. [doi:10.1109/BIBE.2013.6701587] (https://doi.org/10.1109/BIBE.2013.6701587)
+* Reategui, J., **Cucho, G.**, Rodriguez, P., Callupe, R. and Madrid, E. (2013). "Handgrip Force Estimation Based on Total Variation Denoising Filtering for Control Applications". 13th IEEE International Conference on BioInformatics and BioEngineering, Chania, Greece, pp. 1-5. [doi:10.1109/BIBE.2013.6701587](https://doi.org/10.1109/BIBE.2013.6701587)
 
 

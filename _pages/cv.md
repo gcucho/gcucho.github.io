@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, University of Illinois at Urbana Champaign, 2021
-* M.S. in Computer Sciecne, University of Central Florida, 2016
+* Ph.D in Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2021
+* M.S. in Computer Science, University of Central Florida, 2016
 * B.S. in Electrical Engineering, Pontificia Universidad Catolica del Peru, 2007
 
 Research experience
@@ -36,4 +36,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 

@@ -17,6 +17,7 @@ Education
 
 Research experience
 ======
+* TEST1
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues

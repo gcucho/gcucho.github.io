@@ -17,11 +17,10 @@ Education
 
 Research experience
 ======
-* TEST1
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Post-doctoral Researcher**, NASA Goddard Space Flight Center (Fall, 2021 -- Present)
+* **Summer Research Intern**, Los Alamos National Laboratory (Summer, 2021)
+* **Graduate Research Assistant**, University of Illinois at Urbana-Champaign (Fall, 2016 -- Spring, 2021)
+
 
 * Fall 2015: Research Assistant
   * Github University
@@ -31,8 +30,11 @@ Research experience
  
 Teaching
 ======
-* Teaching Assistant
-  * d
+* Teaching Assistant at University of Illinois at Urbana-Champaign
+  * Introduction to Electronics (ECE100) -- Spring, 2018
+  * Optical Remote Sensing (ECE468) -- Spring, 2019
+* Teaching Assistant at University of Central Florida
+  * Robot Vision (CAP4453) -- Spring & Fall, 2015
   
 Awards
 ======

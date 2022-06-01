@@ -9,6 +9,8 @@ author_profile: true
 
 ### Investigation of the Terrestrial Exosphere
 
+* **Cucho-Padin, G.**,  Kameda, S., and Sibeck, D. (2022). "The Earth’s Outer Exospheric Density Distributions Derived From PROCYON/LAICA UV Observations". Journal of Geophysical Research: Space Physics, 127, e2021JA030211. [doi.org/10.1029/2021JA030211](https://doi.org/10.1029/2021JA030211)
+
 * **Cucho-Padin, G.** and  Waldrop, L. (2020a). "New Sensing Strategies for Estimation of Global Exospheric Density". Journal of Geophysical Research: Space Physics, 125, 9, e2020JA028099. [doi.org/10.1029/2020JA028099](https://doi.org/10.1029/2020JA028099)
 
 * **Cucho-Padin, G.** and  Waldrop, L. (2019a). "Time-Dependent Response of the Terrestrial Exosphere to a Geomagnetic Storm". Geophysical Research Letters, 46, pp 11661-11670. [doi.org/10.1029/2019GL084327](https://doi.org/10.1029/2019GL084327)

@@ -15,7 +15,7 @@ Exospheric tomography is a computational 3-D imaging technique that provides est
 This work has been submitted to the IEEE Geoscience and Remote Sensing Letters journal.
 
 
-The Earth's outer exospheric density distributions derived from PROCYON/LAICA UV observations (2022)
+The Earth's Outer Exospheric Density Distributions Derived from PROCYON/LAICA UV Observations (2022)
 =====
 
 **Authors: Gonzalo Cucho-Padin, Shingo Kameda and David Sibeck**

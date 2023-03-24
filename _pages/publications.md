@@ -7,9 +7,11 @@ author_profile: true
 
 ## Selected Publications in Space Science
 
-### Investigation of the Terrestrial Exosphere
+### Terrestrial Exosphere
 
-* **Cucho-Padin, G.**,  Godinez, H., Waldrop, L., Baliukin, I., Bhattacharyya D., Sibeck, D. and Henderson, M. (2023). "A New Approach for 4-D Exospheric Tomography Based on Optimal Interpolation and Gaussian Markov Random Field". IEEE Geoscience and Remote Sensing Letters.[doi.org/10.1109/LGRS.2023.3237793](https://doi.org/10.1109/LGRS.2023.3237793)
+* **Cucho-Padin, G.**, Bhattacharyya, D., Sibeck, D., Connor, H., Youngblood, A. and Ardila, D. (2023). "EXOSpy: A Python Package to Investigate the Terrestrial Exosphere and its FUV Emission''. Front. Astron. Space Sci., Sec. Space Physics. [doi.org/10.3389/fspas.2023.1082150](https://www.frontiersin.org/articles/10.3389/fspas.2023.1082150/abstract)
+
+* **Cucho-Padin, G.**,  Godinez, H., Waldrop, L., Baliukin, I., Bhattacharyya D., Sibeck, D. and Henderson, M. (2023). "A New Approach for 4-D Exospheric Tomography Based on Optimal Interpolation and Gaussian Markov Random Field". IEEE Geoscience and Remote Sensing Letters. [doi.org/10.1109/LGRS.2023.3237793](https://doi.org/10.1109/LGRS.2023.3237793)
 
 * **Cucho-Padin, G.**,  Kameda, S., and Sibeck, D. (2022). "The Earth’s Outer Exospheric Density Distributions Derived From PROCYON/LAICA UV Observations". Journal of Geophysical Research: Space Physics, 127, e2021JA030211. [doi.org/10.1029/2021JA030211](https://doi.org/10.1029/2021JA030211)
 

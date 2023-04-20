@@ -12,8 +12,6 @@ A New Approach for 4-D Exospheric Tomography Based on Optimal Interpolation and 
 
 Exospheric tomography is a computational 3-D imaging technique that provides estimates of the neutral density distributions of the terrestrial exosphere from space-based UV measurements. Variability of neutral densities during geomagnetically active conditions has been previously reported motivating the development of time-dependent tomographic techniques that can characterize both the spatial and temporal scales of densities during these events. However, solving the dynamic exospheric tomography problem can be challenging owing to its ill-posedness and high computational cost. In this letter, we introduce a novel algorithm for 4-D exospheric tomography based on Optimal Interpolation (OI) and Gaussian Markov Random Field (GMRF) theory. The OI analysis enables iterative reconstructions of the exosphere when a statistical background field is provided. Its mean is selected from previous knowledge of the exosphere and its covariance matrix is estimated using GMRF. To validate the performance, we apply our proposed methodology to six days of UV data acquired by NASA's TWINS mission during the geomagnetic storm that occurred on June 15, 2008.
 
-This work has been submitted to the IEEE Geoscience and Remote Sensing Letters journal.
-
 
 The Earth's Outer Exospheric Density Distributions Derived from PROCYON/LAICA UV Observations (2022)
 =====

@@ -9,7 +9,7 @@ author_profile: true
 
 ### Dayside Magnetosphere
 
-* **Cucho-Padin, G.**, Bhattacharyya, D., Sibeck, D., Connor, H., Youngblood, A. and Ardila, D. (2023). "EXOSpy: A Python Package to Investigate the Terrestrial Exosphere and its FUV Emission''. Front. Astron. Space Sci., Sec. Space Physics. [doi.org/10.3389/fspas.2023.1082150](https://www.frontiersin.org/articles/10.3389/fspas.2023.1082150/abstract)
+* **Cucho-Padin, G.**, Connor, H., Jung, J., Walsh, B., Sibeck, D. (2024). "Finding the magnetopause location using soft X-ray observations and a statistical inverse method''. Earth and Planetary Physics: 1-20. [doi.org/10.26464/EPP2023070](https://www.eppcgs.org/en/article/doi/10.26464/epp2023070)
 
 ### Terrestrial Exosphere
 

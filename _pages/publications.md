@@ -7,6 +7,10 @@ author_profile: true
 
 ## Selected Publications in Space Science
 
+### Dayside Magnetosphere
+
+* **Cucho-Padin, G.**, Bhattacharyya, D., Sibeck, D., Connor, H., Youngblood, A. and Ardila, D. (2023). "EXOSpy: A Python Package to Investigate the Terrestrial Exosphere and its FUV Emission''. Front. Astron. Space Sci., Sec. Space Physics. [doi.org/10.3389/fspas.2023.1082150](https://www.frontiersin.org/articles/10.3389/fspas.2023.1082150/abstract)
+
 ### Terrestrial Exosphere
 
 * **Cucho-Padin, G.**, Bhattacharyya, D., Sibeck, D., Connor, H., Youngblood, A. and Ardila, D. (2023). "EXOSpy: A Python Package to Investigate the Terrestrial Exosphere and its FUV Emission''. Front. Astron. Space Sci., Sec. Space Physics. [doi.org/10.3389/fspas.2023.1082150](https://www.frontiersin.org/articles/10.3389/fspas.2023.1082150/abstract)

@@ -7,10 +7,6 @@ author_profile: true
 
 ## Selected Publications in Space Science
 
-### Dayside Magnetosphere
-
-* **Cucho-Padin, G.**, Connor, H., Jung, J., Walsh, B., Sibeck, D. (2024). "Finding the magnetopause location using soft X-ray observations and a statistical inverse method''. Earth and Planetary Physics: 1-20. [doi.org/10.26464/EPP2023070](https://www.eppcgs.org/en/article/doi/10.26464/epp2023070)
-
 ### Terrestrial Exosphere
 
 * **Cucho-Padin, G.**, Bhattacharyya, D., Sibeck, D., Connor, H., Youngblood, A. and Ardila, D. (2023). "EXOSpy: A Python Package to Investigate the Terrestrial Exosphere and its FUV Emission''. Front. Astron. Space Sci., Sec. Space Physics. [doi.org/10.3389/fspas.2023.1082150](https://www.frontiersin.org/articles/10.3389/fspas.2023.1082150/abstract)
@@ -24,6 +20,12 @@ author_profile: true
 * **Cucho-Padin, G.** and  Waldrop, L. (2019a). "Time-Dependent Response of the Terrestrial Exosphere to a Geomagnetic Storm". Geophysical Research Letters, 46, pp 11661-11670. [doi.org/10.1029/2019GL084327](https://doi.org/10.1029/2019GL084327)
 
 * **Cucho-Padin, G.**, and  Waldrop, L. (2018). "Tomographic Estimation of Exospheric Hydrogen Density Distributions". Journal of Geophysical Research: Space Physics, 123, 5119-5139. [doi.org/10.1029/2018JA025323](https://doi.org/10.1029/2018JA025323)
+
+### Dayside Magnetosphere
+
+* **Cucho-Padin, G.**, Connor, H., Jung, J., Shoemaker, M., Murphy, K., Sibeck, D., Norberg, J., & Rojas, E. (2024). "A feasibility study of 4-D tomography of soft X-ray magnetosheath emissivities using multi-spacecraft measurements''. Frontiers in Astronomy and Space Sciences, 11, 1379321. [doi.org/10.3389/fspas.2024.1379321](https://doi.org/10.3389/fspas.2024.1379321)  
+  
+* **Cucho-Padin, G.**, Connor, H., Jung, J., Walsh, B., Sibeck, D. (2024). "Finding the magnetopause location using soft X-ray observations and a statistical inverse method''. Earth and Planetary Physics: 1-20. [doi.org/10.26464/EPP2023070](https://www.eppcgs.org/en/article/doi/10.26464/epp2023070)
 
 ### Radio Science
 

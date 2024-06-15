@@ -9,6 +9,13 @@ author_profile: true
 
 ### Terrestrial Exosphere
 
+* **Cucho-Padin, G.**, Ferradas, C., Waldrop, L., Fok, M-C., Zoennchen, J., Kang, S-B. (2023). "The role of the terrestrial exosphere in the storm-time ring current decay''. Front. Astron. Space Sci., Sec. Space Physics. (Under Revision)
+
+* Li, M-Y, **Cucho-Padin, G.**, Oliveira, P., Glocer, A., Rojas-Villalba, E. (2023). "The response of the high-latitude ionospheric
+outflow to the dynamic terrestrial exosphere''. Front. Astron. Space Sci., Sec. Space Physics. (Under Revision)
+
+* Zoennchen, J, **Cucho-Padin, G.**, Waldrop, L., Fahr, H. (2023). "Comparison of terrestrial exospheric hydrogen 3D distributions at solar minimum and maximum using TWINS Lyman-alpha observations''. Front. Astron. Space Sci., Sec. Space Physics. (Under Revision)
+
 * **Cucho-Padin, G.**, Bhattacharyya, D., Sibeck, D., Connor, H., Youngblood, A. and Ardila, D. (2023). "EXOSpy: A Python Package to Investigate the Terrestrial Exosphere and its FUV Emission''. Front. Astron. Space Sci., Sec. Space Physics. [doi.org/10.3389/fspas.2023.1082150](https://www.frontiersin.org/articles/10.3389/fspas.2023.1082150/abstract)
 
 * **Cucho-Padin, G.**,  Godinez, H., Waldrop, L., Baliukin, I., Bhattacharyya D., Sibeck, D. and Henderson, M. (2023). "A New Approach for 4-D Exospheric Tomography Based on Optimal Interpolation and Gaussian Markov Random Field". IEEE Geoscience and Remote Sensing Letters. [doi.org/10.1109/LGRS.2023.3237793](https://doi.org/10.1109/LGRS.2023.3237793)
